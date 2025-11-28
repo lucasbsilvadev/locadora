@@ -1,12 +1,12 @@
-# 🚗 Sistema de Locadora de Veículos
+# Sistema de Locadora de Veículos
 
 A ideia era criar em pouco tempo um MVP para locadora de veículos usando JAVA e SpringBoot. 
 
 ## 📋 Funcionalidades
 
-- ✅ Cadastro de Usuários/Clientes
-- ✅ Cadastro de Veículos  
-- ✅ Operações CRUD completas
+-  Cadastro de Usuários/Clientes
+-  Cadastro de Veículos  
+-  Operações CRUD completas
 
 
 ## 🛠️ Tecnologias
