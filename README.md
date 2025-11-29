@@ -7,6 +7,7 @@ A ideia era criar em pouco tempo um MVP para locadora de veículos usando JAVA e
 -  Cadastro de Usuários/Clientes
 -  Cadastro de Veículos  
 -  Operações CRUD completas
+-  Aluguel de veículo + status
 
 
 ## 🛠️ Tecnologias
